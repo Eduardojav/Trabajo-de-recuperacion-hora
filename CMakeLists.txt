@@ -1,2 +1,2 @@
 PROJECT( factorial)
-ADD_EXECUTABLE( factorial main.c )
+ADD_EXECUTABLE( factorial main.cpp )
